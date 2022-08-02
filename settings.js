@@ -9,7 +9,7 @@ global.APIs = {
 // Other
 global.owner = ['6285822347348']
 global.premium = ['6285822347348']
-global.youtube = 'https://youtube.com/c/ARULL OFC'
+global.youtube = 'https://youtube.com/c/ARULL+OFC'
 global.ownername = 'ArullOfc'
 global.botname ='ArullBotz'
 global.donasi = {
