@@ -1699,10 +1699,10 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             	anu = `
   *_Hi @${m.sender.split('@')[0]} 👋_*
 
-*🍟 List Menu : ${global.botname}*
+*🤖 List Menu : ${global.botname}*
 
  *Bot Info*
- • ${prefix}ping
+ • ${prefix}𝗽𝗶𝗻𝗴
  • ${prefix}owner
  • ${prefix}menu
  • ${prefix}delete
